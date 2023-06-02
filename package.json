@@ -1,8 +1,8 @@
 {
-  "name": "studio",
+  "name": "nuxt-electron-trpc",
   "version": "0.0.0",
   "private": true,
-  "author": "OneClickStudio",
+  "author": "michael-dm",
   "main": "dist-electron/main.js",
   "scripts": {
     "dev": "nuxi dev",

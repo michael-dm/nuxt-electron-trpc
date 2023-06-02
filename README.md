@@ -24,8 +24,6 @@ pnpm install --shamefully-hoist
 Start the development server on http://localhost:3000
 
 ```bash
-pnpm prisma migrate dev
-pnpm prisma generate
 pnpm run dev
 ```
 
@@ -38,6 +36,3 @@ pnpm run build
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
-
-## Credits
-- https://github.com/awohletz/electron-prisma-trpc-example
